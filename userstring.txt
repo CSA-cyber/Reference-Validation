@@ -1,0 +1,7 @@
+fingerprints in a large volume of fingerprint databases during 
+investigation. However, by knowing the gender, hands or 
+fingers will grossly reduce the time it takes in identifying the 
+culprit in a large volume fingerprint database. Usually, at the initial stage of forensic investigation, if a suspect can be 
+deduced to be either a male or female, the forensic 
+investigators will limit the scope of the investigation and
+hence speed up the forensic investigation.
